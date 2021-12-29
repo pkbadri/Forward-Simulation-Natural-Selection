@@ -3,9 +3,9 @@
 The program given below is based on the algorithm described in Padhukasahasram et al. 2008.
 
 
-https://github.com/pkbadri/Forward-Simulation-Natural-Selection/edit/main/newsel.c
-https://github.com/pkbadri/Forward-Simulation-Natural-Selection/edit/main/mtrand.h
-https://github.com/pkbadri/Forward-Simulation-Natural-Selection/edit/main/mtrand.cpp
+https://github.com/pkbadri/Forward-Simulation-Natural-Selection/blob/main/newsel.c
+https://github.com/pkbadri/Forward-Simulation-Natural-Selection/blob/main/mtrand.h
+https://github.com/pkbadri/Forward-Simulation-Natural-Selection/blob/main/mtrand.cpp
 
 
 
